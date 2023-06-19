@@ -35,14 +35,14 @@ let str = `╭「➻❥𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃𝙴➻❥」
 │➯ *🧿Experiencia:* ${exp}
 │➯ *⚓Rango:* ${role}
 │➯ *💎Diamantes:* ${limit}
-│➯ *👾Hades-Coins:* ${money}
+│➯ *👾CharlieCoins:* ${money}
 │➯ *🪙Tokens:* ${joincount}
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *gana y compara* ➻❥」
 │➯ *.minar gana xp*
 │➯ *.minar2 gana Diamantes*
-│➯ *.minar3 gana Hades-Coins*
+│➯ *.minar3 gana CharlieCoins*
 │➯ *.claim reclama tu recompensa diaria exp*
 │➯ *.darxp recompensa diaria exp*
 │➯ *.coffer un cofre de recompensas diarias*
@@ -251,7 +251,7 @@ let str = `╭「➻❥𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃𝙴➻❥」
 │➯ *.stop borra tu sesión antigua*
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
-╭─「➻❥ *Creadores* ➻❥」
+╭─「➻❥ *Creador* ➻❥」
 │➯ *.boost*
 │➯ *.block*
 │➯ *.spamgp*
