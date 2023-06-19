@@ -24,7 +24,7 @@ let str = `╭「➻❥𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃𝙴➻❥」
 │➯ *Creador:Charlie
 │➯ **Número*➟51994156047
 │➯ **Instagram-De mi creador*
-│➯ *https://youtube.com/@hades_bot2391
+│➯ *https://youtube
 │➯ *ғᴇᴄʜᴀ:➟${date}
 │➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
