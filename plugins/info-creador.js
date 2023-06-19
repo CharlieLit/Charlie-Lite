@@ -1,30 +1,30 @@
 let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let text = `╭─「➻❥ *owner* ➻❥」
-│➯ ⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍
-│➯Wa.me/5212412377467 (CREADOR)
-│➯Wa.me/5212411261883 (CREADOR) 
-│➯Wa.me/5212411719888 (CREADOR)
-│➯Wa.me/5212411347465 (CREADOR)
+let text = `╭─「➻❥ *Creador de CharlieLite* ➻❥」
+│➯ 𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃𝙴
+│➯Wa.me/519941560047 (CREADOR)
+│➯Wa.me/51994156047 (CREADOR) 
+│➯Wa.me/51994156047 (CREADOR)
+│➯Wa.me/51994156047 (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/OFC-YOVANI/HADES-BOT-OMEGA` },
+'document': { url: `https://github.com/CharlieLit/Charlie-Lite` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
+'fileName': `𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃𝙴`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA',
+'mediaUrl': 'https://github.com/CharlieLit/Charlie-Lite',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://youtu.be/4eA5nDxPjAE' }},
 'caption': text,
 'footer': wm,
 //'buttons':[
